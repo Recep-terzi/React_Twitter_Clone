@@ -36,3 +36,7 @@
 ​		
 
 ![](https://i.hizliresim.com/fp2tagb.PNG)
+
+## 	TailwindCSS Kurulumu için :
+
+* ### https://tailwindcss.com/docs/guides/create-react-app
