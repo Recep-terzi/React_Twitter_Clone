@@ -12,7 +12,8 @@
 
 ![](https://i.hizliresim.com/97vfqmu.PNG)
 
-
+## Netlify App:
+* ## https://624f5739897bee008bee3bfe--wonderful-blini-c874bb.netlify.app 
 
 ## Sağ tarafta kullanılan güncel twitter widget yapısı için kullanılan component:
 
